@@ -1,0 +1,6 @@
+id_visita,data_visita,matricula,bairro,status_visita,unidades_familiares,nome_responsavel,cpf_responsavel
+1,2026-01-02,MT-1001,Campo Grande,SUCESSO,2,Ana Souza,12345678901
+2,2026-01-02,MT-1002,Santa Cruz,AUSENTE,,,
+3,2026-01-03,MT-1003,Realengo,RECUSA,,,
+4,2026-01-03,MT-1004,Bangu,SUCESSO,1,Carlos Lima,98765432100
+5,2026-01-04,MT-1005,Campo Grande,SUCESSO,3,Mariana Alves,45678912300
